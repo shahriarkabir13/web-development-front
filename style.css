@@ -64,6 +64,35 @@ text-align: center;
     padding-right: 30px;
     padding-top: 30px;
     padding-bottom: 20px;
+    border-radius: 20px;
 }
     
+.inspiration{
+     text-align: center;
+    margin-top: 100px;
 
+}
+.video{
+    
+    text-align: center;
+}
+.last-grp{
+    display: flex;
+    margin-bottom:70px;
+    gap: 100px;
+    margin-left: 200px;
+    border-radius: 10px;
+    padding: 20px;
+    border: 1px solid black;
+    margin-right: 240px;
+   
+}
+.ntarget{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 40px;
+ 
+}
+.all-target{
+    align-items: center;
+}
