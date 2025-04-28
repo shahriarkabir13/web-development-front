@@ -12,6 +12,8 @@
 .bannersec{
     background-image: url(./assets/Hero-bg.png);
     margin-top: 10px;
+    /* height: 500px; */
+     padding-top: 100px;
     
 }
 .bannerimg{
@@ -26,6 +28,9 @@ text-align: center;
     text-align: center;
     display: flex;
     justify-content: center;
+    /* justify-content: end; */
+   margin-top: 125px;
+   
 
 }
 .layer{
@@ -35,7 +40,7 @@ text-align: center;
     gap: 100px;
 }
 .group3{
-   margin-left: 670px;
+   margin-left: 170px;
    margin-top: 60px;
    
 }
@@ -69,7 +74,8 @@ text-align: center;
     
 .inspiration{
      text-align: center;
-    margin-top: 100px;
+    margin-top: 70px;
+    margin-bottom: 60px;
 
 }
 .video{
@@ -96,3 +102,55 @@ text-align: center;
 .all-target{
     align-items: center;
 }
+
+.footer{
+    background-image: url(./assets/handshake.jpg);
+    
+    border-radius: 20px;
+    margin-top: 40px;
+    margin-bottom: 70px;
+    margin-left: 200px;
+    margin-right: 200px;
+    /* height: auto; */
+}
+
+
+
+.lastone{
+    display: flex;
+    margin-top: 20px;
+    background-color: rgb(246, 249, 249);
+    margin-bottom: 50px;
+    padding-left: 150px;
+    padding-right: 250px;
+    justify-content: space-between;
+    padding-top: 30px;
+    
+}
+.lastwrite{
+    text-align: center;
+    color: white;
+    padding-top: 100px;
+    gap:20px;
+    
+
+}
+.submitbox{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    padding-bottom: 30px;
+
+    
+}
+input{
+    width:200px;
+    height:30px;
+    border-radius: 10px;
+}
+.final-sub{
+    width: 100px;
+    height: 35px;
+    border-radius: 10px;
+}
+
